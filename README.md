@@ -352,9 +352,9 @@ HackerRank — SQL
 HackerRank — Python
 HackerRank — C
 HackerRank — CSS
-📊 GitHub Statistics
+GitHub Statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prithyadarshan&show_icons=true&hide_border=true&theme=transparent" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithyadarshan&hide_border=true&theme=transparent" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithyadarshan&layout=compact&hide_border=true&theme=transparent"/> </p>
-📈 My Technical Journey
+My Technical Journey
 Programming & Problem Solving
             │
             ▼
@@ -397,7 +397,7 @@ AI system architecture
 Production-ready AI applications
 Scalable software development
 Intelligent agent-based systems
-# About Me
+Career direction
 
 I'm working toward becoming an AI/ML Engineer and Software Developer, with a focus on building reliable, scalable, and practical intelligent systems.
 
