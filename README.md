@@ -397,7 +397,7 @@ AI system architecture
 Production-ready AI applications
 Scalable software development
 Intelligent agent-based systems
-Career Direction
+# About Me
 
 I'm working toward becoming an AI/ML Engineer and Software Developer, with a focus on building reliable, scalable, and practical intelligent systems.
 
