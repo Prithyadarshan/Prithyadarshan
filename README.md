@@ -11,25 +11,25 @@ I enjoy transforming complex real-world problems into **practical, scalable, rel
 
 # About Me
 
-Computer Science & Engineering — **Artificial Intelligence & Machine Learning**
+- Computer Science & Engineering — **Artificial Intelligence & Machine Learning**
 
-Focused on **Artificial Intelligence, Machine Learning, and Deep Learning**
+- Focused on **Artificial Intelligence, Machine Learning, and Deep Learning**
 
-Interested in **Computer Vision, Medical AI, and Image Processing**
+- Interested in **Computer Vision, Medical AI, and Image Processing**
 
-Exploring **NLP, Transformers, Generative AI, and Large Language Models**
+- Exploring **NLP, Transformers, Generative AI, and Large Language Models**
 
-Interested in **AI research, intelligent systems, and emerging technologies**
+- Interested in **AI research, intelligent systems, and emerging technologies**
 
-Building applications that integrate **AI with practical software workflows**
+- Building applications that integrate **AI with practical software workflows**
 
-Experienced in **hackathons, technical projects, and collaborative development**
+- Experienced in **hackathons, technical projects, and collaborative development**
 
-National-level hackathon participant with competitive achievements
+- National-level hackathon participant with competitive achievements
 
-Exploring **MLOps, AI system architecture, and production-oriented AI**
+- Exploring **MLOps, AI system architecture, and production-oriented AI**
 
-Working toward becoming an **AI/ML Engineer and Software Developer**
+- Working toward becoming an **AI/ML Engineer and Software Developer**
 
 # Areas of Expertise
 
