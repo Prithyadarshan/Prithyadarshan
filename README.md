@@ -339,11 +339,11 @@ AI/ML Engineering · Deep Learning · Computer Vision · NLP · Generative AI ·
 # Let's Connect
 ## GitHub
 
-github.com/Prithyadarshan
+https://www.github.com/prithyadarshan
 
 ## LinkedIn
 
-linkedin.com/in/prithyadarshan-thiyagarajan
+https://www.linkedin.com/in/prithyadarshan-thiyagarajan-379a4b2a3/
 
 ## Email
 
