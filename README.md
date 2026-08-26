@@ -1,382 +1,355 @@
-👋 Hi, I'm Prithyadarshan T
-AI/ML Engineer in Progress | Deep Learning | Computer Vision | Intelligent Systems
+#  Hi, I'm Prithyadarshan T
+## AI/ML Engineer in Progress | Deep Learning | Computer Vision | Intelligent Systems
 
-Building intelligent, data-driven systems that connect AI research, software engineering, and real-world applications.
+### Building intelligent, data-driven systems that connect AI research, software engineering, and real-world applications.
 
-I'm a Computer Science and Engineering undergraduate specializing in Artificial Intelligence & Machine Learning, with a strong interest in building practical intelligent systems using Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and modern software engineering.
+I'm a **Computer Science and Engineering undergraduate specializing in Artificial Intelligence & Machine Learning**, with a strong interest in building practical intelligent systems using **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and modern software engineering.**
 
-My work spans the AI development lifecycle — from data preprocessing and feature engineering to model development, evaluation, experimentation, and deployment.
+My work spans the AI development lifecycle — from **data preprocessing and feature engineering to model development, evaluation, experimentation, and deployment.**
 
-I enjoy transforming complex real-world problems into practical, scalable, and reliable AI-driven solutions.
+I enjoy transforming complex real-world problems into **practical, scalable, reliable, and production-oriented AI solutions.**
 
-🚀 About Me
-🎓 Computer Science & Engineering — Artificial Intelligence & Machine Learning
-🤖 Focused on Artificial Intelligence, Machine Learning, and Deep Learning
-👁️ Interested in Computer Vision, Medical AI, and Image Processing
-🧠 Exploring NLP, Transformers, Generative AI, and Large Language Models
-🔬 Interested in AI research, intelligent systems, and emerging technologies
-💻 Building applications that integrate AI with practical software workflows
-🏆 Experienced in hackathons, technical projects, internships, and collaborative development
-🌐 National-level hackathon participant with competitive achievements
-⚙️ Exploring MLOps, AI system architecture, and production-oriented AI
-🚀 Working toward becoming an AI/ML Engineer and Software Developer
-🧠 Areas of Expertise
-🤖 Artificial Intelligence
+# About Me
+
+Computer Science & Engineering — **Artificial Intelligence & Machine Learning**
+
+Focused on **Artificial Intelligence, Machine Learning, and Deep Learning**
+
+Interested in **Computer Vision, Medical AI, and Image Processing**
+
+Exploring **NLP, Transformers, Generative AI, and Large Language Models**
+
+Interested in **AI research, intelligent systems, and emerging technologies**
+
+Building applications that integrate **AI with practical software workflows**
+
+Experienced in **hackathons, technical projects, and collaborative development**
+
+National-level hackathon participant with competitive achievements
+
+Exploring **MLOps, AI system architecture, and production-oriented AI**
+
+Working toward becoming an **AI/ML Engineer and Software Developer**
+
+# Areas of Expertise
+
+### Artificial Intelligence
 
 Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · LLMs
 
-📊 Machine Learning
+### Machine Learning
 
 Classification · Regression · Data Preprocessing · Feature Engineering · Model Evaluation · Cross Validation · Hyperparameter Optimization
 
-🧬 Deep Learning
+### Deep Learning
 
 CNN · Transfer Learning · Neural Networks · Image Classification · Feature Extraction · Model Training · Model Evaluation
 
-👁️ Computer Vision
+### Computer Vision
 
 Image Processing · Image Classification · Image Segmentation · Edge Detection · HOG · SIFT · ORB · OpenCV
 
-🧠 NLP & Generative AI
+### NLP & Generative AI
 
 Transformers · Tokenization · Fine-Tuning · Text Classification · Sentiment Analysis · LLMs · Prompt Engineering
 
-🔬 Advanced Technologies
+### Advanced Technologies
 
 Federated Learning · Distributed Learning · Explainable AI · Blockchain · Smart Contract Security · Cloud Computing
 
-🛠️ Technical Skills
-👨‍💻 Programming Languages
+# Technical Skills
+### Programming Languages
 
-Python · C · JavaScript · SQL
+Python · C · C++ · JavaScript · SQL
 
-🤖 Machine Learning & Deep Learning
+### AI / Machine Learning
 
 Scikit-Learn · TensorFlow · Keras · PyTorch · Hugging Face Transformers
 
-🧠 NLP & Generative AI
+### Data Science & Visualization
 
-NLP · Transformers · LLMs · Generative AI · Tokenization · Fine-Tuning · Text Classification · Sentiment Analysis · Prompt Engineering
+NumPy · Pandas · Matplotlib · Seaborn
 
-👁️ Computer Vision & Image Processing
+### Computer Vision
 
-OpenCV · Image Processing · Image Classification · Image Segmentation · Feature Extraction · HOG · SIFT · ORB · Edge Detection
+OpenCV · HOG · SIFT · ORB
 
-📊 Data Science & Visualization
-
-NumPy · Pandas · Matplotlib · Seaborn · EDA · Data Preprocessing · Feature Engineering
-
-🌐 Development & Frameworks
+### Development & Frameworks
 
 HTML · CSS · JavaScript · Node.js · Streamlit · Gradio
 
-🗄️ Databases & Data Storage
+### Databases
 
 SQLite · JSON
 
-🔬 Advanced AI & Research
+### Tools & Platforms
 
-Federated Learning · FedAvg · Distributed Learning · Explainable AI · AI System Design · Intelligent Systems
+Git · GitHub · Jupyter · Google Colab · Docker
 
-🔐 Blockchain & Security
-
-Blockchain · Smart Contracts · Formal Verification · Smart Contract Security
-
-🧰 Tools & Platforms
-
-Git · GitHub · Jupyter Notebook · Google Colab · Visual Studio Code · Docker
-
-☁️ Cloud & Deployment
+### Cloud & Deployment
 
 Microsoft Azure · Render · Netlify
 
-🌟 Featured Projects
-🌾 AI-Based Crop Yield Prediction
+# Featured Projects
+## AI-Based Crop Yield Prediction
 
 Machine Learning · Agriculture · Predictive Analytics
 
-An AI-driven agricultural decision-support system designed to estimate crop yield using crop, soil, weather, and environmental data.
+An AI-driven agricultural decision-support system designed to estimate crop yield using **crop, soil, weather, and environmental data.**
 
-Key Features
-Data cleaning and preprocessing
-Exploratory data analysis
-Agricultural feature engineering
-Regression-based yield prediction
-Crop recommendation
-NPK nutrient analysis
-Seasonal cultivation recommendations
-Data-driven agricultural decision support
-Workflow
+### Key Features
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Agricultural feature engineering
+- Regression-based yield prediction
+- Crop recommendation
+- NPK nutrient analysis
+- Seasonal cultivation recommendations
+- Data-driven agricultural decision support
 
-Agricultural Data
-↓
-Data Cleaning & Preprocessing
-↓
-Exploratory Data Analysis
-↓
-Feature Engineering
-↓
-Model Development
-↓
-Model Evaluation
-↓
-Yield Prediction
-↓
-Agricultural Recommendations
+### Workflow
 
-Technologies: Python · Pandas · Scikit-Learn · Matplotlib · Seaborn
+**Agricultural Data → Data Preprocessing → Exploratory Data Analysis → Feature Engineering → Model Development → Model Evaluation → Yield Prediction → Agricultural Recommendations**
 
-🩺 Oral Cancer Prediction
+**Technologies:** Python · Pandas · Scikit-Learn · Matplotlib · Seaborn
+
+## Oral Cancer Prediction
 
 Machine Learning · Healthcare · Classification
 
-An end-to-end machine learning classification system designed to identify oral cancer risk using health and lifestyle-related attributes.
+An end-to-end machine learning classification system designed to identify **oral cancer risk** using health and lifestyle-related attributes.
 
-Models Explored
+###  Models Explored
 
 Logistic Regression · Decision Tree · Random Forest
 
-Evaluation
+### Evaluation
 
 Accuracy · Precision · Recall · F1-Score · ROC-AUC · Confusion Matrix · 5-Fold Cross Validation
 
-Workflow
+### Workflow
 
-Dataset
-↓
-Data Preprocessing
-↓
-Exploratory Data Analysis
-↓
-Feature Engineering
-↓
-Model Training
-↓
-Cross Validation
-↓
-Performance Evaluation
-↓
-Risk Prediction
+**Dataset → Data Preprocessing → Exploratory Data Analysis → Feature Engineering → Model Training → Cross Validation → Performance Evaluation → Risk Prediction**
 
-Technologies: Python · Pandas · Scikit-Learn · Matplotlib · Seaborn
+**Technologies:** Python · Pandas · Scikit-Learn · Matplotlib · Seaborn
 
-👁️ Computer Vision & Image Processing
+## Computer Vision & Image Processing
 
 Computer Vision · OpenCV · Feature Extraction
 
-Developed classical computer vision pipelines for image analysis, feature extraction, object recognition, and image processing.
+Developed classical computer vision pipelines for **image analysis, feature extraction, object recognition, and image processing.**
 
-Processing Pipeline
+###  Processing Pipeline
 
-Input Image
-↓
-Image Preprocessing
-↓
-Noise Reduction
-↓
-Filtering
-↓
-Edge Detection
-↓
-Feature Extraction
-↓
-Segmentation
-↓
-Recognition / Analysis
+Input Image → Preprocessing → Noise Reduction → Filtering → Edge Detection → Feature Extraction → Segmentation → Recognition / Analysis
 
-Techniques Explored
+### Techniques Explored
 
 Gaussian Filtering · Edge Detection · HOG · SIFT · ORB · Image Segmentation
 
-Technologies: Python · OpenCV · NumPy
+**Technologies:** Python · OpenCV · NumPy
 
-📚 Role-Based Library Management System
+## Role-Based Library Management System
 
 Web Development · Authentication · RBAC · CRUD · SQLite
 
-A multi-page library management application designed around role-based access control, authentication, structured workflows, and persistent application data.
+A multi-page library management application designed around **role-based access control, authentication, structured workflows, and persistent application data.**
 
-Key Features
-Administrator and student role separation
-Authentication and session management
-Protected application routes
-Role-based CRUD operations
-Persistent application data
-Responsive multi-page interface
-Production deployment
+### Key Features
+- Administrator and student role separation
+- Authentication and session management
+- Protected application routes
+- Role-based CRUD operations
+- Persistent application data
+- Responsive multi-page interface
+- Production deployment
 
-Technologies: HTML · CSS · JavaScript · RBAC · SQLite
+**Technologies:** HTML · CSS · JavaScript · RBAC · SQLite
 
-🔗 View Live Project
+🔗 View Live Project https://library-management-system-zrdd.vercel.app/
 
-🔬 Research & Technical Exploration
-🌐 Federated Learning
+# Research & Technical Exploration
 
-Explored privacy-preserving distributed machine learning using PyTorch and Federated Averaging (FedAvg).
-
-The work involved drug-target interaction prediction, comparison between federated and centralized learning approaches, and evaluation of model performance under distributed training conditions.
-
-Technical Areas: Federated Learning · FedAvg · Distributed Training · Privacy-Preserving ML · PyTorch
-
-🧬 Deep Learning-Based Colon Tissue Recognition
+## Deep Learning-Based Colon Tissue Recognition
 
 Worked on Deep Learning-Based Colon Tissue Recognition during a project internship at SASTRA University, gaining practical experience in medical image analysis and deep learning-based image classification.
 
-Technical Exposure
-Dataset preparation and organization
-Image preprocessing
-Feature extraction
-Image analysis
-Deep learning model development
-Image classification
-Model training and evaluation
+### Technical Exposure
+- Dataset preparation and organization
+- Image preprocessing
+- Feature extraction
+- Image analysis
+- Deep learning model development
+- Image classification
+- Model training and evaluation
 
 Technologies: Python · PyTorch · Keras · OpenCV · Computer Vision
 
-🤗 NLP & Transformer Models
+## NLP & Transformer Models
 
-Explored transformer-based NLP architectures using Hugging Face Transformers.
+Explored transformer-based NLP architectures using **Hugging Face Transformers.**
 
-Areas Explored
+### Areas Explored
 
 Tokenization · Transfer Learning · Fine-Tuning · Text Classification · Sentiment Analysis · Transformer Architectures
 
-🔐 Blockchain & Smart Contract Security
+## Blockchain & Smart Contract Security
 
-Explored formal verification of smart contracts, focusing on mathematically reasoning about contract behavior and identifying potential security vulnerabilities.
+Explored **formal verification of smart contracts**, focusing on mathematically reasoning about contract behavior and identifying potential security vulnerabilities.
 
 Areas Explored
 
 Blockchain Security · Smart Contracts · Formal Verification · Secure Systems
 
-💼 Professional Experience
-🧬 Deep Learning Project Intern — SASTRA University
+# Professional Experience
+## Deep Learning Project Intern — SASTRA University
 
-July 2026 · 1 Month | Thanjavur, Tamil Nadu, India · Remote
+### July 2026 · 1 month | Thanjavur, Tamil Nadu, India · Remote
 
-Completed a one-month project internship focused on Deep Learning, Computer Vision, and Medical Image Analysis, working on Deep Learning-Based Colon Tissue Recognition.
+Completed a one-month project internship focused on **Deep Learning, Computer Vision, and Medical Image Analysis**, working on **Deep Learning-Based Colon Tissue Recognition.**
 
-Key Contributions
-Prepared and organized image datasets for deep learning-based analysis
-Applied image preprocessing and computer vision techniques
-Performed feature extraction and image analysis
-Developed image classification workflows
-Worked on model training, validation, and performance evaluation
-Explored deep learning approaches for medical image classification
-Gained practical experience in applying AI to medical image analysis
+### Key Contributions
+- Prepared and organized image datasets for deep learning-based analysis
+- Applied image preprocessing and computer vision techniques
+- Performed feature extraction and image analysis
+- Developed image classification workflows
+- Worked on model training, validation, and performance evaluation
+- Explored deep learning approaches for medical image classification
+- Gained practical experience in applying AI to medical image analysis
 
-Technologies: Python · PyTorch · Keras · OpenCV · Deep Learning · Computer Vision
+**Technologies:** Python · PyTorch · Keras · OpenCV · Deep Learning · Computer Vision
 
-🤖 AI/ML Intern — InternPe
+## AI/ML Intern — InternPe
 
-January 2025 – February 2025 · 2 Months | Remote
+### January 2025 – February 2025 · 2 months | Remote
 
-Completed an internship focused on Machine Learning and Python, gaining hands-on experience in developing and evaluating machine learning solutions.
+Completed an internship focused on **Machine Learning and Python**, gaining hands-on experience in developing and evaluating machine learning solutions.
 
-Key Contributions
-Performed data preprocessing and exploratory data analysis
-Applied feature engineering techniques
-Developed and trained machine learning models
-Evaluated model performance using appropriate metrics
-Worked with structured datasets using Python
-Implemented end-to-end machine learning workflows
+### Key Contributions
+- Performed data preprocessing and exploratory data analysis
+- Applied feature engineering techniques
+- Developed and trained machine learning models
+- Evaluated model performance using appropriate metrics
+- Worked with structured datasets using Python
+- Implemented end-to-end machine learning workflows
 
-Technologies: Python · Pandas · Scikit-Learn · Machine Learning · EDA · Feature Engineering
+**Technologies:** Python · Pandas · Scikit-Learn · Machine Learning · EDA · Feature Engineering
 
-🏆 Achievements
-🥇 AI National Hackathon — NIT Tiruchirappalli
-Shortlisted among 77 teams from 3,500+ applications
-Ranked among the Top 20 Overall Teams
-Ranked among the Top 5 Teams in AI for Digital Infrastructure Services
-🏆 Smart India Hackathon
+# Achievements
+## AI National Hackathon — NIT Tiruchirappalli
+- **Shortlisted among 77 teams** from **3,500+ applications**
+- Ranked among the **Top 20 overall teams**
+- Ranked among the **Top 5 teams** in **AI for Digital Infrastructure Services**
 
-Internal Winner — 2025 & 2026
+## Smart India Hackathon — 2025 & 2026
 
-Won the Saranathan College of Engineering internal selection twice
-🥇 Vortex'26 — NIT Tiruchirappalli
+### Internal Winner — Saranathan College of Engineering
 
-National Symposium · March 2026
+Won the **institute-level internal selection twice**
 
-Presented a poster on Formal Verification of Smart Contracts
-Shortlisted among the Top 8 Finalist Teams
-💻 Competitive Programming
-250+ CodeChef problems solved
-CodeChef Problem Solver — Silver Badge
-⚡ Cognizant Technoverse Hackathon 2026
+## Vortex'26 — NIT Tiruchirappalli
+
+### National Symposium · March 2026
+
+- Presented a poster on **Formal Verification of Smart Contracts**
+- Shortlisted among the **Top 8 finalist teams**
+
+## Competitive Programming
+- 250+ CodeChef problems solved
+- CodeChef Problem Solver — Silver Badge
+
+## Cognizant Technoverse Hackathon 2026
 Participated at the national level
-📜 Certifications
-🤖 Artificial Intelligence & Machine Learning
-Google Gemini Certified University Student
-Google — Introduction to Large Language Models
-TCS iON Career Edge — AI Foundation
-IIIT Dharwad Research Park — Data Preprocessing for ML Pipelines
-Microsoft — Use AI Responsibly
-☁️ Cloud & Security
-Microsoft Azure Well-Architected Framework
-Blockchain & Smart Contract Security
-💻 Programming
-HackerRank — SQL
-HackerRank — Python
-HackerRank — C
-HackerRank — CSS
-📊 GitHub Statistics
 
-Your GitHub contribution statistics, streak, and most-used programming languages can be displayed here.
+## Certifications
+## Artificial Intelligence & Machine Learning
+- Google Gemini Certified University Student
+- Google — Introduction to Large Language Models
+- TCS iON Career Edge — AI Foundation
+- IIIT Dharwad Research Park — Data Preprocessing for ML Pipelines
+- Microsoft — Use AI Responsibly
+## Cloud & Security
+- Microsoft Azure Well-Architected Framework
+- Blockchain & Smart Contract Security
+## Programming
+- HackerRank — SQL
+- HackerRank — Python
+- HackerRank — C
+- HackerRank — CSS
 
-🧭 My Technical Journey
+# My Technical Journey
 
-Programming & Problem Solving
-↓
-Python & Data Analysis
-↓
-Machine Learning
-↓
-Deep Learning
-↓
-Computer Vision + NLP + Generative AI
-↓
-Transformers + LLMs
-↓
-Intelligent Systems
-↓
-Research & Innovation
-↓
-Real-World Deployment
+**Programming & Problem Solving**
 
-📚 Currently Learning
+↓
+
+**Python & Data Analysis**
+
+↓
+
+**Machine Learning**
+
+↓
+
+**Deep Learning**
+
+↓
+
+**Computer Vision · NLP · Generative AI**
+
+↓
+
+**Transformers · LLMs**
+
+↓
+
+**Intelligent Systems**
+
+↓
+
+**Research & Innovation**
+
+↓
+
+**Real-World Deployment**
+
+## Currently Learning
 
 I'm continuously strengthening my knowledge in:
 
-Advanced Deep Learning architectures
-Transformers and Large Language Models
-Generative AI
-MLOps and model deployment
-Explainable AI
-Federated Learning
-AI system architecture
-Production-ready AI applications
-Scalable software development
-Intelligent agent-based systems
-🎯 Career Direction
+- Advanced Deep Learning architectures
+- Transformers and Large Language Models
+- Generative AI
+- MLOps and model deployment
+- Explainable AI
+- Federated Learning
+- AI system architecture
+- Production-ready AI applications
+- Scalable software development
+- Intelligent agent-based systems
+
+## Career Direction
 
 I'm working toward becoming an AI/ML Engineer and Software Developer, with a focus on building reliable, scalable, practical, and production-oriented intelligent systems.
 
-Areas of Interest
+# Areas of Interest
 
 AI/ML Engineering · Deep Learning · Computer Vision · NLP · Generative AI · LLMs · Intelligent Applications · AI Systems · MLOps
 
-⚙️ Engineering Philosophy
+# Let's Connect
+## GitHub
 
-Learn → Understand → Build → Experiment → Evaluate → Deploy → Improve
+github.com/Prithyadarshan
 
-I believe strong engineering comes from continuously combining learning, experimentation, evaluation, and real-world implementation.
+## LinkedIn
 
-🤝 Let's Connect
+linkedin.com/in/prithyadarshan-thiyagarajan
 
-GitHub: Prithyadarshan
-LinkedIn: Prithyadarshan Thiyagarajan
-Email: prithyadarshant@gmail.com
+## Email
 
-🚀 Building today. Learning continuously. Engineering the future with AI.
+prithyadarshant@gmail.com
 
-Engineering intelligent solutions for real-world problems.
+
+#### Building Today. Learning Continuously. Engineering the Future with AI.
+
+**Explore my repositories to see my journey from experimentation to real-world intelligent systems.**
