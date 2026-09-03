@@ -259,7 +259,7 @@ Won the **institute-level internal selection twice**
 - CodeChef Problem Solver — Gold Badge
 
 ## Cognizant Technoverse Hackathon 2026
-Participated at the national level
+Participated at the National Level, competing against teams from across India and demonstrating strong technical, problem-solving, and innovation skills.
 
 ## Certifications
 ## Artificial Intelligence & Machine Learning
