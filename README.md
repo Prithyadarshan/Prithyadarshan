@@ -256,7 +256,7 @@ Won the **institute-level internal selection twice**
 
 ## Competitive Programming
 - 500+ CodeChef problems solved
-- CodeChef Problem Solver — Silver Badge
+- CodeChef Problem Solver — Gold Badge
 
 ## Cognizant Technoverse Hackathon 2026
 Participated at the national level
