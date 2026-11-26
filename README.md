@@ -236,6 +236,12 @@ Completed an internship focused on **Machine Learning and Python**, gaining hand
 **Technologies:** Python · Pandas · Scikit-Learn · Machine Learning · EDA · Feature Engineering
 
 # Achievements
+## Naukri Campus Young Turks 2026
+
+- Achieved **99.98 percentile** in the national-level competition.
+- Demonstrated strong technical knowledge and problem-solving abilities.
+- Recognized for outstanding performance among participating candidates.
+  
 ## AI National Hackathon — NIT Tiruchirappalli
 - **Shortlisted among 77 teams** from **3,500+ applications**
 - Ranked among the **Top 20 overall teams**
