@@ -202,6 +202,24 @@ Areas Explored
 Blockchain Security · Smart Contracts · Formal Verification · Secure Systems
 
 # Professional Experience
+## AI/ML Intern — Skill Set Go EduTech
+
+### September 2026 – October 2026 · 1 month | Remote
+
+Completed a structured AI/ML internship focused on **Python, Machine Learning, Deep Learning, and Generative AI**, involving practical assignments, hands-on implementation, and project-based learning.
+
+### Key Contributions
+
+- Applied Python programming and mathematical concepts to machine learning problems.
+- Performed data preprocessing, exploratory data analysis, and feature engineering.
+- Developed and evaluated machine learning models for regression and classification tasks.
+- Explored neural networks and deep learning using PyTorch and TensorFlow.
+- Implemented CNN-based approaches for image classification.
+- Explored Natural Language Processing and transformer-based models.
+- Gained exposure to Generative AI, prompt engineering, and AI-powered applications.
+- Explored agent-based AI systems and modern AI development workflows.
+
+**Technologies:** Python · NumPy · Pandas · Scikit-Learn · PyTorch · TensorFlow · Keras · NLP · Generative AI · Machine Learning · Deep Learning
 ## Deep Learning Project Intern — SASTRA University
 
 ### July 2026 · 1 month | Thanjavur, Tamil Nadu, India · Remote
